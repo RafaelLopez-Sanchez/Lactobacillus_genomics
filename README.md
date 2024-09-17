@@ -14,9 +14,6 @@ PEPPAN outfiles. 1020.faa contains all predicted protein products, Traits.csv co
 
 Here is a Van Gogh-inspired painting of the *Lactobacillus* genus:
 
-![Van Gogh-inspired painting of Lactobacillus](https://github.com/YOUR-REPO-NAME/PATH-TO-IMAGE/Lactobacillus_genomics.png)
-
-### Image Citation:
 **Creator:** DALL·E by OpenAI  
 **Title:** Van Gogh-inspired painting of *Lactobacillus*  
 **Date Created:** September 2024  
