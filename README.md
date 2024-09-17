@@ -8,7 +8,10 @@ Our research explores how Lactobacillus species adapt to diverse environments, b
 
 
 ## Data
-PEPPAN outfiles. 1020.faa contains all predicted protein products, Traits.csv contains the annotation of each genome for habitats.
+The Data folder contains:
+PEPPAN outfiles. 
+1020.faa which contains all predicted protein products. 
+Traits.csv which contains the annotation of each genome for habitats.
 
 ![Lactobacillus_genomics](https://github.com/user-attachments/assets/8ff6b977-0c4f-40c5-9602-99c75428ba8b)
 
