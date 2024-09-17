@@ -10,11 +10,3 @@ Our research explores how Lactobacillus species adapt to diverse environments, b
 ## Data
 PEPPAN outfiles. 1020.faa contains all predicted protein products, Traits.csv contains the annotation of each genome for habitats.
 
-Here is an image representing the genomics of *Lactobacillus* in a Van Gogh-inspired style:
-
-![Van Gogh-inspired painting of Lactobacillus](https://github.com/desktop/IBt/GitHub/Lactobacillus_genomics/Lactobacillus_genomics.png)
-
-### Image Citation:
-**Creator:** DALL·E by OpenAI  
-**Title:** Van Gogh-inspired painting of *Lactobacillus*  
-**Date Created:** September 2024  
